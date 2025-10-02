@@ -8,5 +8,7 @@ command
 git push origin master---推送最新分支
 pull change to branch dev
 
-
 master:add to master
+====================
+
+feature1：add feature1
